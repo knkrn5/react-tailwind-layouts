@@ -57,7 +57,7 @@ function Home() {
       </div>
 
       {/* Main Content  */}
-      <div className=" text-white transition-all  ">
+      <div className="col-span-1 bg-green-500 text-white transition-all  ">
         {/* menu bar */}
         {!openMenu && isSmallScreen && (
           <div
@@ -71,7 +71,7 @@ function Home() {
       </div>
 
       {/* Footer */}
-      <div className="bg-yellow-500 text-white">
+      <div className="col-span-1 bg-yellow-500 text-white">
         {/* <Footer /> */}
         Footer
       </div>
