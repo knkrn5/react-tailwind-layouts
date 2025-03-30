@@ -2,7 +2,7 @@ import { Menu, CircleX } from "lucide-react";
 import { useEffect, useState } from "react";
 import { Outlet } from "react-router";
 
-function Home() {
+function LayoutOne() {
   const [openMenu, setOpenMenu] = useState(false);
   const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 768);
 
@@ -34,7 +34,7 @@ function Home() {
       <div
         className={` md:col-span-1 md:row-span-2 bg-white text-black dark:bg-slate-900 dark:text-white transition-all ${
           isSmallScreen
-            ? `fixed top-0  h-full max-md:w-[280px] transform z-10 ${
+            ? `fixed top-0 h-full max-md:w-[280px] transform z-10 ${
                 openMenu
                   ? "translate-x-0 duration-500"
                   : "-translate-x-full duration-500"
@@ -77,4 +77,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default LayoutOne;
