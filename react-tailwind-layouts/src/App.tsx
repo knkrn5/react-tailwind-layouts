@@ -1,13 +1,16 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router";
-import Home from "./pages/home/home";
 import MainContent from "./pages/mainContent/mainContent";
+
+///**You can test the all different layout here in codespace only..🎉 **/
+import LayoutOne from "./layouts/LayoutOne";
+// import LayoutTwo from "./layouts/layoutTwo";
 
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route element={<Home />}>
+        <Route element={<LayoutOne />}>
           <Route index element={<MainContent />} />
         </Route>
       </Routes>
