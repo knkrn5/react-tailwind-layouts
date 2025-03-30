@@ -15,7 +15,7 @@ The project uses the following technologies:
 
 The project contains the following layouts:
 
-- [LayoutOne](src/layouts/layouts/LayoutOne.tsx)
+- [LayoutOne](react-tailwind layouts/src/layouts/LayoutOne.tsx)
 
 ## Other Component
 
