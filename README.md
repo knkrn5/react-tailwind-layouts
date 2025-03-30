@@ -28,6 +28,7 @@ The project contains the following layouts:
 2. Install the dependencies with `npm install`
 3. Start the development server with `npm run dev`
 4. Open the project in your browser at `http://localhost:5173`
+5. You can also test, these layout in Github CodeSpace.
 
 ## How to use the layouts
 
