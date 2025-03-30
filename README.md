@@ -2,7 +2,7 @@
 
 This project is a collection of different React + Tailwind CSS layouts.
 
-The layouts are designed to be responsive and to work well on different screen sizes.
+The layouts are designed to be responsive and to work well on different screen sizes and light-dark theme as well.
 
 The project uses the following technologies:
 
