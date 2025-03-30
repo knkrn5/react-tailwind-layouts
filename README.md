@@ -15,12 +15,12 @@ The project uses the following technologies:
 
 The project contains the following layouts:
 
-- [LayoutOne](react-tailwind layouts/src/layouts/LayoutOne.tsx)
+- [LayoutOne](./react-tailwind%20layouts/src/layouts/LayoutOne.tsx)
 
 ## Other Component
 
 - [Home](./react-tailwind%20layouts/src/pages/home/home.tsx)
-- [Main Content](./src/pages/mainContent/mainContent.tsx)
+- [Main Content](./react-tailwind%20layouts/src/pages/mainContent/mainContent.tsx)
 
 ## How to run the project
 
