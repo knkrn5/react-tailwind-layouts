@@ -19,7 +19,7 @@ The project contains the following layouts:
 
 ## Other Component
 
-- [Home](./react-tailwind layouts/src/pages/home/home.tsx)
+- [Home](./react-tailwind%20layouts/src/pages/home/home.tsx)
 - [Main Content](./src/pages/mainContent/mainContent.tsx)
 
 ## How to run the project
