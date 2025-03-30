@@ -19,7 +19,7 @@ The project contains the following layouts:
   ![LayoutOne Preview](./react-tailwind-layouts/public/assets/layout-previews/layoutOneImg.png)
 
 - [LayoutTwo](./react-tailwind-layouts/src/layouts/LayoutTwo.tsx)  
-  ![LayoutTwo Preview](./react-tailwind-layouts/public/assets/layout-previews/LayoutTwoImg.png)
+  ![LayoutTwo Preview](./react-tailwind-layouts/public/assets/layout-previews/layoutTwoImg.png)
 
 ## Other Component
 
