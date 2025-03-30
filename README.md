@@ -16,10 +16,10 @@ The project uses the following technologies:
 The project contains the following layouts:
 
 - [LayoutOne](./react-tailwind-layouts/src/layouts/LayoutOne.tsx)  
-  ![LayoutOne Preview](./assets/layout-previews/layoutOneImg.png)
+  ![LayoutOne Preview](./react-tailwind-layouts/assets/layout-previews/layoutOneImg.png)
 
 - [LayoutTwo](./react-tailwind-layouts/src/layouts/LayoutTwo.tsx)  
-  ![LayoutTwo Preview](./assets/layout-previews/LayoutTwoImg.png)
+  ![LayoutTwo Preview](./react-tailwind-layouts/assets/layout-previews/LayoutTwoImg.png)
 
 ## Other Component
 
