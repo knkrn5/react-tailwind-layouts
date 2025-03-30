@@ -2,7 +2,7 @@ import { Menu, CircleX } from "lucide-react";
 import { useEffect, useState } from "react";
 import { Outlet } from "react-router";
 
-function Home() {
+function LayoutOne() {
   const [openMenu, setOpenMenu] = useState(false);
   const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 768);
 
@@ -77,4 +77,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default LayoutOne;

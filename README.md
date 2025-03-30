@@ -15,6 +15,10 @@ The project uses the following technologies:
 
 The project contains the following layouts:
 
+- [LayoutOne](src/layouts/layouts/LayoutOne.tsx)
+
+## Other Component
+
 - [Home](src/pages/home/home.tsx)
 - [Main Content](src/pages/mainContent/mainContent.tsx)
 
@@ -44,4 +48,3 @@ When opening a pull request, please make sure to include a description of the ch
 ## License
 
 The project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-/**\*\*** c6842b65-3b94-4031-b729-8ee69259782d **\*\*\***/
