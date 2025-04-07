@@ -5,6 +5,8 @@ import MainContent from "./pages/mainContent/mainContent";
 import LayoutOne from "./layouts/layoutOne";
 // import LayoutTwo from "./layouts/layoutTwo";
 
+//pagination
+import OnePaginaton from "./pagination/onePagination";
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
       <Routes>
         <Route element={<LayoutOne />}>
           <Route index element={<MainContent />} />
+          <Route path="one-pagination" element={<OnePaginaton />} />
         </Route>
       </Routes>
     </Router>
