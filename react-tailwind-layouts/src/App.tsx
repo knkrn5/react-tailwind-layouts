@@ -8,6 +8,10 @@ import LayoutOne from "./layouts/layoutOne";
 //pagination
 import OnePaginaton from "./pagination/onePagination";
 
+//testing
+import Ltr from "./components/leftToRight/LTR";
+
+
 function App() {
   return (
     <Router>
@@ -15,6 +19,7 @@ function App() {
         <Route element={<LayoutOne />}>
           <Route index element={<MainContent />} />
           <Route path="one-pagination" element={<OnePaginaton />} />
+          <Route path="ltr" element={<Ltr />} />
         </Route>
       </Routes>
     </Router>
