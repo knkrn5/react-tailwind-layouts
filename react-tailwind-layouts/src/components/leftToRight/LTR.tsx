@@ -31,8 +31,7 @@ const Ltr = () => {
         <span className="absolute left-0 top-0 h-full w-0 bg-blue-500 transition-all duration-500 ease-in-out group-hover:w-full z-0"></span>
       </button>
 
-
-      <div className="mt-3 w-80 h-40 bg-gray-500 rounded-lg shimmer" />
+      <div className="mt-3 w-80 h-40 bg-gray-500 rounded-lg animate-shimmer" />
 
 
       <div className="mt-3 w-80 h-40 bg-gray-300 rounded-lg animate-wiggle " />   
